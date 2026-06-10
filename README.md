@@ -10,10 +10,9 @@ Portal Principal:
 https://hyris.com.br
 
 Dashboard Administrativo:
-https://hyris.com.br/dashboard/login
+
 
 MMS (Moderation Management System):
-https://hyris.com.br/mms
 
 Observações:
 

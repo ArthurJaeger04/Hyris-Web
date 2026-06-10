@@ -86,6 +86,7 @@ Observações:
 * Tailwind CSS
 * Stripe API
 * REST APIs
+* PostgreSQL
 
 ---
 
